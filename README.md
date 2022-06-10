@@ -73,4 +73,4 @@ All in all, you would need to solve **atleast 2 challenges throughtout the modul
 Make sure you go through the respective `README.md` files before jumping into the challenge. Have fun! 😁
 
 Discussions among mentees are encouraged and we request you to use our [Discord Server](https://discord.gg/nnpCPsUrYV) for the same.
-<p align="center">Created with :heart: by <a href="https://linktr.ee/csec.iitb">CSeC</a></p>
+<p align="center">Created with :heart: by <a href="https://linktr.ee/csec.iitb">CSec</a></p>
